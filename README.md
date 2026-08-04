@@ -1,1 +1,1 @@
-# Tms-Kubernetes-44
+# Цель: Углубленное изучение основных концепций Kubernetes, связанных с Namespaces, Pods и Controllers.
